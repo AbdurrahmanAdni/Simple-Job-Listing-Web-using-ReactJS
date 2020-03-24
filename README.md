@@ -10,7 +10,11 @@ git clone https://github.com/AbdurrahmanAdni/Simple-Job-Listing-Web-using-ReactJ
 ```
 
 3. Install the npm by using this command
-```npm install```
+```
+npm install
+```
 
 4. Run the app by using this command :
-```npm start```
+```
+npm start
+```
