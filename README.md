@@ -20,4 +20,4 @@ npm start
 ```
 
 ## Technology/Technical Design
-In completing this task, I use the javascript programming language and ReactJs as the library. The reason I use javascript is because javascript is perfect for building interactive websites. I use ReactJS because ReactJS combines the speed of JavaScript and uses a new way of rendering webpages, making them highly dynamic and responsive to user input. I also use CSS for describing the presentation and design of my web pages.
+In completing this task, I use the JavaScript programming language and ReactJS as the library. The reason I use JavaScript is because JavaScript is perfect for building interactive websites. I use ReactJS because ReactJS combines the speed of JavaScript and uses a new way of rendering webpages, making it highly dynamic and responsive to user input. I also use CSS for describing the presentation and design of my web pages.
