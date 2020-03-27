@@ -4,12 +4,15 @@
 
 1. You’ll need to have Node >= 8.10 and npm >= 5.6 on your machine
 
+
+
 2. Clone this repository by using this command :
 ```
 git clone https://github.com/AbdurrahmanAdni/Simple-Job-Listing-Web-using-ReactJS.git
 ```
+3. Enter the job-listing-web folder
 
-3. Install the npm by using this command
+4. Install the npm by using this command
 ```
 npm install
 ```
